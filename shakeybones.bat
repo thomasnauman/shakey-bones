@@ -1,4 +1,4 @@
 :loop
 ping -n 1 127.0.0.1 > nul
-start "" "C:\Users\tommy\Desktop\shakey.gif"
+start "" "C:\Program Files (x86)\Boneshake\Shakey Bones Virus\shakey.gif"
 goto loop
